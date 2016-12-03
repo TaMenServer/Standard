@@ -3,7 +3,8 @@ package com.tamenserver.standard.setinterpreter;
 import java.util.Arrays;
 import java.util.List;
 
-import com.tamenserver.standard.setinterperter.exception.NotASetException;
+import com.tamenserver.standard.setinterpreter.exception.NotASetException;
+
 
 public class SetInterpreter {
 

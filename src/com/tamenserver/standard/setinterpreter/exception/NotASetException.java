@@ -1,4 +1,4 @@
-package com.tamenserver.standard.setinterperter.exception;
+package com.tamenserver.standard.setinterpreter.exception;
 
 public class NotASetException extends Exception {
 
